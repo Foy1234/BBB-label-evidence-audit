@@ -1,0 +1,11 @@
+numpy==2.4.6
+pandas==3.0.5
+scipy==1.17.1
+scikit-learn==1.9.0
+rdkit==2026.3.5
+xgboost==3.2.0
+torch==2.13.0+cpu
+torch-geometric==2.8.0.post1
+matplotlib==3.11.1
+cleanlab
+transformers

@@ -1,0 +1,33 @@
+Included scripts
+stage0_audit_v15.py
+stage5_consensus.py
+stage05_conflict_audit.py
+stage_e2_multiverse.py
+stage7_scaffold_split.py
+stage7_freeze_eval.py
+stage6_hem.py
+stage7_main.py
+stage7_gine.py
+stage7_bootstrap.py
+stage_e3_uncertainty.py
+stage_external_science_v13.py
+stage_external_science_v15.py
+stage_f2_f7_final_v10.py
+stage_calibration_ablation_v13.py
+stage_calibration_ablation_v15.py
+stage_c2_cleanlab.py
+stage_c3_qsardb_validation.py
+stage_c4_pretrained.py
+stage_e1_provenance.py
+stage_e4_simulation.py
+hem/__init__.py
+hem/data.py
+hem/model.py
+hem/abstain.py
+
+Excluded from the minimum release
+Manuscript-generation and document-formatting utilities
+Deprecated analysis versions superseded by included versions
+SHAP/SMARTS/MMP exploratory analyses outside the final main narrative
+Python bytecode caches
+Large generated result files and third-party raw datasets
